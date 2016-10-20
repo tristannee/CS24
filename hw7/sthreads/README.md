@@ -1,4 +1,4 @@
-This folder contains files that I wrote/completed (test.c was already provided) to experiment with threads.
+This folder contains files that I wrote/completed (test.c and Makefile were already provided) to experiment with threads.
 
 - glue.s
 
