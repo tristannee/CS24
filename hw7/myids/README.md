@@ -1,5 +1,4 @@
-In these files, I wrote code responsible for retrieving the user ID and group ID from
-the kernel.
+In these files, I wrote code to retrieve the user ID and group ID from the kernel.
 
 - get_ids.s
 
