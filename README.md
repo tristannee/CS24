@@ -1,2 +1,3 @@
 # CS24
-Computing Systems (C and IA 32 Assembly)
+The Computing Systmes class at Caltech. All code done either in IA32 Assembly or C.
+
